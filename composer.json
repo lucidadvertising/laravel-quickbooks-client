@@ -10,13 +10,9 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Jimmy Puckett",
-      "email": "jimmy.puckett@spinen.com"
-    },
-    {
       "name": "Anthony Rickard",
       "email": "arickard@lucidadvertising.com"
-    },
+    }
   ],
   "require": {
     "php": "^8.2",
